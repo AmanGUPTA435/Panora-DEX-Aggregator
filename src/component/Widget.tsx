@@ -1,7 +1,7 @@
 import { PanoraWidget } from "@panoraexchange/widget-sdk";
 import Panora from "@panoraexchange/swap-sdk";
-import { Swap } from "@panoraexchange/swap-sdk/dist/types/resources/swap";
-import { sampleSwap } from "../utils/swap";
+// import { Swap } from "@panoraexchange/swap-sdk/dist/types/resources/swap";
+// import { sampleSwap } from "../utils/swap";
 const PANORA_WIDGET_API_KEY = process.env.REACT_APP_PANORA_WIDGET_API_KEY ?? "";
 const KEYLESS_GOOGLE_CLIENT_ID =
   process.env.REACT_APP_KEYLESS_GOOGLE_CLIENT_ID ?? "";
