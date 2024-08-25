@@ -1,0 +1,16 @@
+{
+  "name": "swap-sdk-examples",
+  "version": "1.0.0",
+  "description": "Working examples of @panoraexchange/swap-sdk",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "team@panora.exchange",
+  "license": "ISC",
+  "dependencies": {
+    "@panoraexchange/swap-sdk": "^1.0.4",
+    "@types/node": "^20.7.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.2.2"
+  }
+}
